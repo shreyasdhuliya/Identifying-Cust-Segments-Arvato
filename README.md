@@ -17,8 +17,8 @@
 
 In this project, Bertelsmann partners AZ Direct and Arvato Financial Solutions have provided two datasets 
 one with demographic information about the people of Germany, and one with that same information for customers 
-of a mail-order sales company. 
- Performed Unsupervised Learning to form segments/clusters (after dimensionality reduction) to find clusters in the demographics dataset.
+of a mail-order sales company. <br>
+ Performed Unsupervised Learning to form segments/clusters (after dimensionality reduction) to find clusters in the demographics dataset.<br>
   Predicted clusters of the customer dataset using the same clustering technique.
   A comparison of the two cluster distributions was done to see where the strongest customer base for the company.
   
