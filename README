@@ -1,0 +1,17 @@
+1.myfunction.py
+--------------------------------------
+i)return_inv_DECADE() - returns intervarls based on PRAEGENDE_JUGENDJAHRE column
+ii) replace_to_nans() - Function takes in DataFrame for General Population Data of Germany and returns dataframe by replacing missing or unknown   to NaNs with help of  feature summary data.
+iii) drop_rows_columns() - Function drops outlier columns and rows with NaNs more than threshold
+    which is provided as an input
+    
+iv) re_encode() - 
+Fucntion Re-encodes
+         - Categorical columns 
+         - mixed and ordinal columns by setting dummies, converting to intervals
+    Dropping 
+        - multi-level categorical columns
+        - Ordinal columns which can not be converted to intervals
+v) show_var_for_comp()- Plots variance percentage per component and shows Total variance
+vi) show_ith_comp_wt() - Plots weights for one principle component
+     
