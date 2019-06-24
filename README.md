@@ -1,6 +1,6 @@
 # Machine Learning Nanodegree
 # Identifying Customer Segment with Arvato
-## Unsupervised learning
+## Unsupervised learning - Udacity Project
 
 ## Installations
 1. **Python 3.6**  and libraries
