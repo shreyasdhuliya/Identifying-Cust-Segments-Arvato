@@ -2,6 +2,7 @@
 # Identifying Customer Segment with Arvato
 ## Unsupervised learning - Udacity Project
 
+### [View Report on here](https://github.com/shreyasdhuliya/Identifying-Cust-Segments-Arvato/blob/master/Identify_Customer_Segments.ipynb)
 ## Installations
 1. **Python 3.6**  and libraries
  - [Numpy](http://www.numpy.org/)
